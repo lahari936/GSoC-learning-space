@@ -59,7 +59,7 @@ Mostly, I learned to read unfamiliar code patiently before writing any. I have a
 - [x] This PR addresses an agreed-upon problem (linked issue or discussion with maintainer approval), **or** is a small/trivial fix
 - [x] I have read the [contributing guide](https://github.com/mesa/mesa/blob/main/CONTRIBUTING.md) and [deprecation policy](https://github.com/mesa/mesa/blob/main/CONTRIBUTING.md#deprecation-policy)
 - [x] I have performed a self-review: I reviewed my own PR as if I were a reviewer and left comments on anything that needs explanation
-- [ ] Another GSoC contributor has reviewed this PR: @AshNicolus
+- [x] Another GSoC contributor has reviewed this PR: @AshNicolus
 - [x] Tests pass locally (`pytest --cov=mesa tests/`)
 - [x] Code is formatted (`ruff check . --fix`)
 - [x] If applicable: documentation, examples, and/or migration guide are updated — n/a, `_neighborhood` is private and no public behaviour changes
