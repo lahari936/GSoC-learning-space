@@ -8,7 +8,7 @@ says the same: *"build models first, contribute second."*
 
 Planned, simplest first:
 
-- [ ] a Boltzmann-wealth variant, to get the basic model/agent/step loop down
+- [*] a Boltzmann-wealth variant, to get the basic model/agent/step loop down
 - [ ] Schelling on `OrthogonalMooreGrid`, for neighbourhood queries and `empties`
 - [ ] the same model on `Network`, since the two spaces are where mesa#4026 came from
 - [ ] something original, with data collection and a `SolaraViz` app
